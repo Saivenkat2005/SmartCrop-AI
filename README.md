@@ -1,1 +1,1 @@
-# SmartCrop-AI
+# SmartCrop AI
